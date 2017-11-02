@@ -1,0 +1,12 @@
+﻿{
+  "MailSettings": {
+    "ToAddress": "lauren.grills@gmail.com"
+  },
+  "ConnectionStrings": {
+    "WorldContextConnection": "Server=(localdb)\\MSSQLLocalDb;Database=TheWorldDb;Trusted_Connection=true;MultipleActiveResultSets=true;"
+  },
+  "Keys": {
+    "BingKey": "",
+    "GMapsKey": "AIzaSyBfga8rIhCGJTHD0w9XazDw2kZYq5fBwfk"
+  }
+}
